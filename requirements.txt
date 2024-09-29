@@ -1,0 +1,5 @@
+streamlit==1.36.0
+streamlit-float==0.3.5
+audio-recorder-streamlit==0.0.10
+groq==0.11.0
+python-dotenv==1.0.1
